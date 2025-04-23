@@ -4,3 +4,22 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
+
+body {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffe5e5;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    gap: 20px; 
+    max-width: 500px;
+    margin: 20px;
+}
