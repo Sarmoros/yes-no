@@ -23,3 +23,21 @@ body {
     max-width: 500px;
     margin: 20px;
 }
+
+.container .tenor-gif-embed {
+    max-width: 300px;
+}
+
+.container .btn {
+    display: flex;
+    gap: 25px;
+}
+
+.btn a {
+    text-decoration: none;
+    color: #111;
+    background: #fff;
+    padding: 10px 25px;
+    border-radius: 8px;
+    box-shadow: 0.5rem 1rem 3rem hsl(0, 0%, 0%, 0.3);
+}
