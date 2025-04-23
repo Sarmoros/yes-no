@@ -1,1 +1,1 @@
-# yes-no
+# Cute-funny project
